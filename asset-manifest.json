@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TicketGenerator/static/css/main.fd6449fe.css",
-    "main.js": "/TicketGenerator/static/js/main.fbe31320.js",
+    "main.js": "/TicketGenerator/static/js/main.c5f4653b.js",
     "static/js/453.ed3810f9.chunk.js": "/TicketGenerator/static/js/453.ed3810f9.chunk.js",
     "index.html": "/TicketGenerator/index.html",
     "main.fd6449fe.css.map": "/TicketGenerator/static/css/main.fd6449fe.css.map",
-    "main.fbe31320.js.map": "/TicketGenerator/static/js/main.fbe31320.js.map",
+    "main.c5f4653b.js.map": "/TicketGenerator/static/js/main.c5f4653b.js.map",
     "453.ed3810f9.chunk.js.map": "/TicketGenerator/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd6449fe.css",
-    "static/js/main.fbe31320.js"
+    "static/js/main.c5f4653b.js"
   ]
 }
