@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TicketGenerator/static/css/main.d73b3f0a.css",
-    "main.js": "/TicketGenerator/static/js/main.bd519455.js",
+    "main.css": "/TicketGenerator/static/css/main.fd6449fe.css",
+    "main.js": "/TicketGenerator/static/js/main.fbe31320.js",
     "static/js/453.ed3810f9.chunk.js": "/TicketGenerator/static/js/453.ed3810f9.chunk.js",
     "index.html": "/TicketGenerator/index.html",
-    "main.d73b3f0a.css.map": "/TicketGenerator/static/css/main.d73b3f0a.css.map",
-    "main.bd519455.js.map": "/TicketGenerator/static/js/main.bd519455.js.map",
+    "main.fd6449fe.css.map": "/TicketGenerator/static/css/main.fd6449fe.css.map",
+    "main.fbe31320.js.map": "/TicketGenerator/static/js/main.fbe31320.js.map",
     "453.ed3810f9.chunk.js.map": "/TicketGenerator/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d73b3f0a.css",
-    "static/js/main.bd519455.js"
+    "static/css/main.fd6449fe.css",
+    "static/js/main.fbe31320.js"
   ]
 }
